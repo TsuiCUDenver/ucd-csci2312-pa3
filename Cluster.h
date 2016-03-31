@@ -126,6 +126,7 @@ namespace Clustering {
         public:
             Move(const Point &p, Cluster &from, Cluster &to);
 
+
             void perform();
         };
     };
